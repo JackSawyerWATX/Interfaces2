@@ -1,0 +1,1 @@
+A number of inherited classes, some extending others implementing characteristics from one class to another.
